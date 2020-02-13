@@ -1,9 +1,7 @@
-# Assignment Description
+# I Can Cook Day CYOA
 
-written by 
+written by BL '23
 
-edit with appropriate link:
-
-[![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Ambassador-Day-Game-VGE)](https://repl.it/github/athenian-ct-projects/Ambassador-Day-Game-VGE)
-
-Add info about game here
+[![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/I-Can-Cook-Day-BL)](https://repl.it/github/athenian-ct-projects/I-Can-Cook-Day-BL)
+* A choose your own adevnture day about food and survival.
+* edit to clean up print statements.
